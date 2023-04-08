@@ -1,4 +1,4 @@
-### Application Issues
+# Application Issues
 
 The application is currently experiencing several issues that need to be addressed:
 
@@ -44,7 +44,7 @@ I have also checked if the count down has ended
 
 The SubscriptionForm file several bugs that need to be fixed. Currently, it is not properly validating email addresses, and it is not handling empty values correctly.
 
-Use ES6 for useState and useRef:
+Used ES6 for useState and useRef:
 
 Instead of using var or let we should use const for more concise and error free code. 
 

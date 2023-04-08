@@ -15,7 +15,7 @@ export default function Counter() {
       day = hour * 24;
 
     const clockInterval = setInterval(() => {
-      const end = new Date("May 05, 2022 12:00:00").getTime();
+      const end = new Date("Apr 09, 2023 24:00:00").getTime();
       const current = new Date().getTime();
       let remaining = end - current;
 
